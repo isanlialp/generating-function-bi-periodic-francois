@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Generating Function for the Bi-Periodic François Sequence: Algorithm Analysis and Performance Modeling"
+authors:
+  - family-names: "Şanlıalp"
+    given-names: "İbrahim"
+year: 2026
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/isanlialp/generating-function-bi-periodic-francois"
+doi: "10.5281/zenodo.20297625"
+keywords:
+  - generating function
+  - algorithm analysis
+  - performance modeling
+  - energy measurement
+  - bi-periodic sequence
